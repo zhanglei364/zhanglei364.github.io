@@ -1,0 +1,20 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>猜想 - 分类 - ZhangLei364&#39;s Blog</title>
+    <link>https://www.zhanglei364.com/categories/%E7%8C%9C%E6%83%B3/</link>
+    <description>猜想 - 分类 - ZhangLei364&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 30 Aug 2023 10:46:32 &#43;0800</lastBuildDate><atom:link href="https://www.zhanglei364.com/categories/%E7%8C%9C%E6%83%B3/" rel="self" type="application/rss+xml" /><item>
+  <title>003 弃坑弃坑弃坑！</title>
+  <link>https://www.zhanglei364.com/posts/003-%E5%BC%83%E5%9D%91%E5%BC%83%E5%9D%91%E5%BC%83%E5%9D%91/003-%E5%BC%83%E5%9D%91%E5%BC%83%E5%9D%91%E5%BC%83%E5%9D%91/</link>
+  <pubDate>Wed, 30 Aug 2023 10:46:32 &#43;0800</pubDate>
+  <author>zhanglei364</author>
+  <guid>https://www.zhanglei364.com/posts/003-%E5%BC%83%E5%9D%91%E5%BC%83%E5%9D%91%E5%BC%83%E5%9D%91/003-%E5%BC%83%E5%9D%91%E5%BC%83%E5%9D%91%E5%BC%83%E5%9D%91/</guid>
+  <description><![CDATA[英特尔公开基于 RISC 架构的 8 核 528 线程 CPU，每颗核心 66 线程 IT之家 8 月 30 日消息，英特尔在 Hot Chips 2023 期间展示了一款全新的 CPU。这颗芯片基于 RISC 精简指令集而非传统 x86，具有 8 核以及 528 线程，可提供十分强悍的并行和多核性能。
+英特尔开发这种特殊芯片是为了满足一些特定的工作负载，这些工作负载不仅需要极高的并行计算能力，还会导致可用硬件（尤其是缓存）的利用率不足，例如图形分析领域，类似 DARPA 的 HIVE 项目。
+对于类似的工作负载，英特尔设计了一款具有 8 个物理核心以及 528 个逻辑线程的新 CPU，其中每个核心均具备 66 个线程，而且每个核心都有着 192KB 缓存和 4MB SRAM。
+值得一提的是，这颗 CPU 虽然基于 RISC 架构，但它利用了硅光子学进行网络通信。也就是说，该 CPU 将以芯片组的形式出现，借助 EMIB 互连技术将光芯片连接到主 CPU 芯片上。
+此外，英特尔这款 CPU 还具有 16 个多线程管道（MTP），而单线程管道（STP）可提供八倍的单线程性能。
+如前所述，这枚芯片基于定制 RISC 设计，每个线程都包含 32 个寄存器。此外，该芯片还支持自定义 DDR5 内存控制器，最高支持 DDR5-4400 DIMMs（8B 访问粒度）、32 个高速 AIB 端口和 PCIe Gen4 x8 协议。]]></description>
+</item>
+</channel>
+</rss>

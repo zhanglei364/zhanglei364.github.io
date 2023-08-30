@@ -1,23 +1,30 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Categories - 分类 - ZhangLei364&#39;s Blog</title>
-    <link>www.zhanglei364.com/categories/</link>
+    <link>https://www.zhanglei364.com/categories/</link>
     <description>Categories - 分类 - ZhangLei364&#39;s Blog</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>zhanglei364@qq.com (zhanglei364)</managingEditor>
-      <webMaster>zhanglei364@qq.com (zhanglei364)</webMaster><lastBuildDate>Wed, 30 Aug 2023 10:46:32 &#43;0800</lastBuildDate><atom:link href="www.zhanglei364.com/categories/" rel="self" type="application/rss+xml" /><item>
-  <title>第二篇</title>
-  <link>www.zhanglei364.com/categories/%E7%AC%AC%E4%BA%8C%E7%AF%87/</link>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 30 Aug 2023 10:46:32 &#43;0800</lastBuildDate><atom:link href="https://www.zhanglei364.com/categories/" rel="self" type="application/rss+xml" /><item>
+  <title>猜想</title>
+  <link>https://www.zhanglei364.com/categories/%E7%8C%9C%E6%83%B3/</link>
   <pubDate>Wed, 30 Aug 2023 10:46:32 &#43;0800</pubDate>
   <author>zhanglei364</author>
-  <guid>www.zhanglei364.com/categories/%E7%AC%AC%E4%BA%8C%E7%AF%87/</guid>
+  <guid>https://www.zhanglei364.com/categories/%E7%8C%9C%E6%83%B3/</guid>
   <description><![CDATA[]]></description>
 </item>
 <item>
-  <title>第一篇</title>
-  <link>www.zhanglei364.com/categories/%E7%AC%AC%E4%B8%80%E7%AF%87/</link>
+  <title>说说</title>
+  <link>https://www.zhanglei364.com/categories/%E8%AF%B4%E8%AF%B4/</link>
   <pubDate>Wed, 30 Aug 2023 10:46:32 &#43;0800</pubDate>
   <author>zhanglei364</author>
-  <guid>www.zhanglei364.com/categories/%E7%AC%AC%E4%B8%80%E7%AF%87/</guid>
+  <guid>https://www.zhanglei364.com/categories/%E8%AF%B4%E8%AF%B4/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>杂谈</title>
+  <link>https://www.zhanglei364.com/categories/%E6%9D%82%E8%B0%88/</link>
+  <pubDate>Wed, 30 Aug 2023 10:46:32 &#43;0800</pubDate>
+  <author>zhanglei364</author>
+  <guid>https://www.zhanglei364.com/categories/%E6%9D%82%E8%B0%88/</guid>
   <description><![CDATA[]]></description>
 </item>
 </channel>

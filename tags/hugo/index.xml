@@ -1,11 +1,9 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>ZhangLei364&#39;s Blog</title>
-    <link>https://www.zhanglei364.com/</link>
-    <description>这是ZhangLei364&#39;s Blog网站</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 30 Aug 2023 10:46:32 &#43;0800</lastBuildDate>
-      <atom:link href="https://www.zhanglei364.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
+    <title>HUGO - 标签 - ZhangLei364&#39;s Blog</title>
+    <link>https://www.zhanglei364.com/tags/hugo/</link>
+    <description>HUGO - 标签 - ZhangLei364&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 30 Aug 2023 10:46:32 &#43;0800</lastBuildDate><atom:link href="https://www.zhanglei364.com/tags/hugo/" rel="self" type="application/rss+xml" /><item>
   <title>001 搞了几个通宵，本站终于建起来了！</title>
   <link>https://www.zhanglei364.com/posts/001-%E6%90%9E%E4%BA%86%E5%87%A0%E4%B8%AA%E9%80%9A%E5%AE%B5%E6%9C%AC%E7%AB%99%E7%BB%88%E4%BA%8E%E5%BB%BA%E8%B5%B7%E6%9D%A5%E4%BA%86/%E6%90%9E%E4%BA%86%E5%87%A0%E4%B8%AA%E9%80%9A%E5%AE%B5%E6%9C%AC%E7%AB%99%E7%BB%88%E4%BA%8E%E5%BB%BA%E8%B5%B7%E6%9D%A5%E4%BA%86/</link>
   <pubDate>Wed, 30 Aug 2023 10:46:32 &#43;0800</pubDate>
