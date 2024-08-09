@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>提示横幅 - 标签 - 三石亭记</title>
+    <link>http://www.zhanglei364.com/tags/%E6%8F%90%E7%A4%BA%E6%A8%AA%E5%B9%85/</link>
+    <description>提示横幅 - 标签 | 三石亭记</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 09 Mar 2024 14:10:06 &#43;0800</lastBuildDate><atom:link href="http://www.zhanglei364.com/tags/%E6%8F%90%E7%A4%BA%E6%A8%AA%E5%B9%85/" rel="self" type="application/rss+xml" /><item>
+  <title>文章内容格式样板</title>
+  <link>http://www.zhanglei364.com/%E6%96%87%E7%AB%A0%E5%86%85%E5%AE%B9%E6%A0%BC%E5%BC%8F%E6%A0%B7%E6%9D%BF/</link>
+  <pubDate>Sat, 09 Mar 2024 14:10:06 &#43;0800</pubDate>
+  <author>張磊</author>
+  <guid>http://www.zhanglei364.com/%E6%96%87%E7%AB%A0%E5%86%85%E5%AE%B9%E6%A0%BC%E5%BC%8F%E6%A0%B7%E6%9D%BF/</guid>
+  <description><![CDATA[本样板是为了给后续文章内容格式参考用的，涉及图片、音乐、视频、提示等基本经常要用到的内容。]]></description>
+</item>
+</channel>
+</rss>

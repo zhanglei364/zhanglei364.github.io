@@ -1,0 +1,31 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>七号公园 - 三石亭记</title>
+    <link>http://www.zhanglei364.com/sevenpark/</link>
+    <description>七号公园 | 三石亭记</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 12 Oct 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://www.zhanglei364.com/sevenpark/" rel="self" type="application/rss+xml" /><item>
+  <title>许嵩的散文</title>
+  <link>http://www.zhanglei364.com/sevenpark/vae-prose/</link>
+  <pubDate>Thu, 12 Oct 2023 00:00:00 &#43;0000</pubDate>
+  <author>張磊</author>
+  <guid>http://www.zhanglei364.com/sevenpark/vae-prose/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>许嵩的专辑</title>
+  <link>http://www.zhanglei364.com/sevenpark/vae-album/</link>
+  <pubDate>Fri, 14 May 2021 00:00:00 &#43;0000</pubDate>
+  <author>張磊</author>
+  <guid>http://www.zhanglei364.com/sevenpark/vae-album/</guid>
+  <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>许嵩的博客</title>
+  <link>http://www.zhanglei364.com/sevenpark/vae-blog/</link>
+  <pubDate>Sat, 20 Jul 2013 00:00:00 &#43;0000</pubDate>
+  <author>張磊</author>
+  <guid>http://www.zhanglei364.com/sevenpark/vae-blog/</guid>
+  <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>
