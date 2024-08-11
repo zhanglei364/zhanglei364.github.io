@@ -1,55 +1,65 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>理想主义 - 三石亭记</title>
+    <title>理想主义 on 三石亭记</title>
     <link>http://www.zhanglei364.com/idealism/</link>
-    <description>理想主义 | 三石亭记</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 24 Jul 2024 23:20:12 &#43;0800</lastBuildDate><atom:link href="http://www.zhanglei364.com/idealism/" rel="self" type="application/rss+xml" /><item>
-  <title>每一个生命来到世间都注定改变世界</title>
-  <link>http://www.zhanglei364.com/idealism/%E6%AF%8F%E4%B8%80%E4%B8%AA%E7%94%9F%E5%91%BD%E6%9D%A5%E5%88%B0%E4%B8%96%E9%97%B4%E9%83%BD%E6%B3%A8%E5%AE%9A%E6%94%B9%E5%8F%98%E4%B8%96%E7%95%8C/</link>
-  <pubDate>Wed, 24 Jul 2024 23:20:12 &#43;0800</pubDate>
-  <author>張磊</author>
-  <guid>http://www.zhanglei364.com/idealism/%E6%AF%8F%E4%B8%80%E4%B8%AA%E7%94%9F%E5%91%BD%E6%9D%A5%E5%88%B0%E4%B8%96%E9%97%B4%E9%83%BD%E6%B3%A8%E5%AE%9A%E6%94%B9%E5%8F%98%E4%B8%96%E7%95%8C/</guid>
-  <description><![CDATA[人类生活全是一种现实欲望的扩张。这种现实欲望，只向扩张的方面走，决不向减缩的方面走，小资本家必想做大资本家，大资本家必想做最大的资本家，是一定的心理。历史上凡是专制主义者，或者帝国主义者，或军国主义者，非等到人家来推倒，决没有自己肯收场的。]]></description>
-</item>
-<item>
-  <title>一个理想主义者的创业故事（四）</title>
-  <link>http://www.zhanglei364.com/idealism/%E4%B8%80%E4%B8%AA%E7%90%86%E6%83%B3%E4%B8%BB%E4%B9%89%E8%80%85%E7%9A%84%E5%88%9B%E4%B8%9A%E6%95%85%E4%BA%8B/%E4%B8%80%E4%B8%AA%E7%90%86%E6%83%B3%E4%B8%BB%E4%B9%89%E8%80%85%E7%9A%84%E5%88%9B%E4%B8%9A%E6%95%85%E4%BA%8B%E5%9B%9B/</link>
-  <pubDate>Thu, 25 Dec 2014 20:20:12 &#43;0800</pubDate>
-  <author>張磊</author>
-  <guid>http://www.zhanglei364.com/idealism/%E4%B8%80%E4%B8%AA%E7%90%86%E6%83%B3%E4%B8%BB%E4%B9%89%E8%80%85%E7%9A%84%E5%88%9B%E4%B8%9A%E6%95%85%E4%BA%8B/%E4%B8%80%E4%B8%AA%E7%90%86%E6%83%B3%E4%B8%BB%E4%B9%89%E8%80%85%E7%9A%84%E5%88%9B%E4%B8%9A%E6%95%85%E4%BA%8B%E5%9B%9B/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>一个理想主义者的创业故事（三）</title>
-  <link>http://www.zhanglei364.com/idealism/%E4%B8%80%E4%B8%AA%E7%90%86%E6%83%B3%E4%B8%BB%E4%B9%89%E8%80%85%E7%9A%84%E5%88%9B%E4%B8%9A%E6%95%85%E4%BA%8B/%E4%B8%80%E4%B8%AA%E7%90%86%E6%83%B3%E4%B8%BB%E4%B9%89%E8%80%85%E7%9A%84%E5%88%9B%E4%B8%9A%E6%95%85%E4%BA%8B%E4%B8%89/</link>
-  <pubDate>Tue, 25 Dec 2012 20:20:12 &#43;0800</pubDate>
-  <author>張磊</author>
-  <guid>http://www.zhanglei364.com/idealism/%E4%B8%80%E4%B8%AA%E7%90%86%E6%83%B3%E4%B8%BB%E4%B9%89%E8%80%85%E7%9A%84%E5%88%9B%E4%B8%9A%E6%95%85%E4%BA%8B/%E4%B8%80%E4%B8%AA%E7%90%86%E6%83%B3%E4%B8%BB%E4%B9%89%E8%80%85%E7%9A%84%E5%88%9B%E4%B8%9A%E6%95%85%E4%BA%8B%E4%B8%89/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>一个理想主义者的创业故事（二）</title>
-  <link>http://www.zhanglei364.com/idealism/%E4%B8%80%E4%B8%AA%E7%90%86%E6%83%B3%E4%B8%BB%E4%B9%89%E8%80%85%E7%9A%84%E5%88%9B%E4%B8%9A%E6%95%85%E4%BA%8B/%E4%B8%80%E4%B8%AA%E7%90%86%E6%83%B3%E4%B8%BB%E4%B9%89%E8%80%85%E7%9A%84%E5%88%9B%E4%B8%9A%E6%95%85%E4%BA%8B%E4%BA%8C/</link>
-  <pubDate>Tue, 25 Oct 2011 23:20:12 &#43;0800</pubDate>
-  <author>張磊</author>
-  <guid>http://www.zhanglei364.com/idealism/%E4%B8%80%E4%B8%AA%E7%90%86%E6%83%B3%E4%B8%BB%E4%B9%89%E8%80%85%E7%9A%84%E5%88%9B%E4%B8%9A%E6%95%85%E4%BA%8B/%E4%B8%80%E4%B8%AA%E7%90%86%E6%83%B3%E4%B8%BB%E4%B9%89%E8%80%85%E7%9A%84%E5%88%9B%E4%B8%9A%E6%95%85%E4%BA%8B%E4%BA%8C/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>一个理想主义者的创业故事（一）</title>
-  <link>http://www.zhanglei364.com/idealism/%E4%B8%80%E4%B8%AA%E7%90%86%E6%83%B3%E4%B8%BB%E4%B9%89%E8%80%85%E7%9A%84%E5%88%9B%E4%B8%9A%E6%95%85%E4%BA%8B/%E4%B8%80%E4%B8%AA%E7%90%86%E6%83%B3%E4%B8%BB%E4%B9%89%E8%80%85%E7%9A%84%E5%88%9B%E4%B8%9A%E6%95%85%E4%BA%8B%E4%B8%80/</link>
-  <pubDate>Tue, 23 Nov 2010 20:20:12 &#43;0800</pubDate>
-  <author>張磊</author>
-  <guid>http://www.zhanglei364.com/idealism/%E4%B8%80%E4%B8%AA%E7%90%86%E6%83%B3%E4%B8%BB%E4%B9%89%E8%80%85%E7%9A%84%E5%88%9B%E4%B8%9A%E6%95%85%E4%BA%8B/%E4%B8%80%E4%B8%AA%E7%90%86%E6%83%B3%E4%B8%BB%E4%B9%89%E8%80%85%E7%9A%84%E5%88%9B%E4%B8%9A%E6%95%85%E4%BA%8B%E4%B8%80/</guid>
-  <description><![CDATA[]]></description>
-</item>
-<item>
-  <title>我的奋斗（吉林大学）</title>
-  <link>http://www.zhanglei364.com/idealism/%E4%B8%80%E4%B8%AA%E7%90%86%E6%83%B3%E4%B8%BB%E4%B9%89%E8%80%85%E7%9A%84%E5%88%9B%E4%B8%9A%E6%95%85%E4%BA%8B/%E6%88%91%E7%9A%84%E5%A5%8B%E6%96%97%E5%90%89%E6%9E%97%E5%A4%A7%E5%AD%A6/</link>
-  <pubDate>Wed, 20 May 2009 20:20:12 &#43;0800</pubDate>
-  <author>張磊</author>
-  <guid>http://www.zhanglei364.com/idealism/%E4%B8%80%E4%B8%AA%E7%90%86%E6%83%B3%E4%B8%BB%E4%B9%89%E8%80%85%E7%9A%84%E5%88%9B%E4%B8%9A%E6%95%85%E4%BA%8B/%E6%88%91%E7%9A%84%E5%A5%8B%E6%96%97%E5%90%89%E6%9E%97%E5%A4%A7%E5%AD%A6/</guid>
-  <description><![CDATA[]]></description>
-</item>
-</channel>
+    <description>Recent content in 理想主义 on 三石亭记</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Wed, 24 Jul 2024 23:20:12 +0800</lastBuildDate><atom:link href="http://www.zhanglei364.com/idealism/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>每一个生命来到世间都注定改变世界</title>
+      <link>http://www.zhanglei364.com/idealism/%E6%AF%8F%E4%B8%80%E4%B8%AA%E7%94%9F%E5%91%BD%E6%9D%A5%E5%88%B0%E4%B8%96%E9%97%B4%E9%83%BD%E6%B3%A8%E5%AE%9A%E6%94%B9%E5%8F%98%E4%B8%96%E7%95%8C/</link>
+      <pubDate>Wed, 24 Jul 2024 23:20:12 +0800</pubDate>
+      
+      <guid>http://www.zhanglei364.com/idealism/%E6%AF%8F%E4%B8%80%E4%B8%AA%E7%94%9F%E5%91%BD%E6%9D%A5%E5%88%B0%E4%B8%96%E9%97%B4%E9%83%BD%E6%B3%A8%E5%AE%9A%E6%94%B9%E5%8F%98%E4%B8%96%E7%95%8C/</guid>
+      <description>人类生活全是一种现实欲望的扩张。这种现实欲望，只向扩张的方面走，决不向减缩的方面走，小资本家必想做大资本家，大资本家必想做最大的资本家，是一定的心理。历史上凡是专制主义者，或者帝国主义者，或军国主义者，非等到人家来推倒，决没有自己肯收场的。</description>
+    </item>
+    
+    <item>
+      <title>一个理想主义者的创业故事（四）</title>
+      <link>http://www.zhanglei364.com/idealism/%E4%B8%80%E4%B8%AA%E7%90%86%E6%83%B3%E4%B8%BB%E4%B9%89%E8%80%85%E7%9A%84%E5%88%9B%E4%B8%9A%E6%95%85%E4%BA%8B/%E4%B8%80%E4%B8%AA%E7%90%86%E6%83%B3%E4%B8%BB%E4%B9%89%E8%80%85%E7%9A%84%E5%88%9B%E4%B8%9A%E6%95%85%E4%BA%8B%E5%9B%9B/</link>
+      <pubDate>Thu, 25 Dec 2014 20:20:12 +0800</pubDate>
+      
+      <guid>http://www.zhanglei364.com/idealism/%E4%B8%80%E4%B8%AA%E7%90%86%E6%83%B3%E4%B8%BB%E4%B9%89%E8%80%85%E7%9A%84%E5%88%9B%E4%B8%9A%E6%95%85%E4%BA%8B/%E4%B8%80%E4%B8%AA%E7%90%86%E6%83%B3%E4%B8%BB%E4%B9%89%E8%80%85%E7%9A%84%E5%88%9B%E4%B8%9A%E6%95%85%E4%BA%8B%E5%9B%9B/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>一个理想主义者的创业故事（三）</title>
+      <link>http://www.zhanglei364.com/idealism/%E4%B8%80%E4%B8%AA%E7%90%86%E6%83%B3%E4%B8%BB%E4%B9%89%E8%80%85%E7%9A%84%E5%88%9B%E4%B8%9A%E6%95%85%E4%BA%8B/%E4%B8%80%E4%B8%AA%E7%90%86%E6%83%B3%E4%B8%BB%E4%B9%89%E8%80%85%E7%9A%84%E5%88%9B%E4%B8%9A%E6%95%85%E4%BA%8B%E4%B8%89/</link>
+      <pubDate>Tue, 25 Dec 2012 20:20:12 +0800</pubDate>
+      
+      <guid>http://www.zhanglei364.com/idealism/%E4%B8%80%E4%B8%AA%E7%90%86%E6%83%B3%E4%B8%BB%E4%B9%89%E8%80%85%E7%9A%84%E5%88%9B%E4%B8%9A%E6%95%85%E4%BA%8B/%E4%B8%80%E4%B8%AA%E7%90%86%E6%83%B3%E4%B8%BB%E4%B9%89%E8%80%85%E7%9A%84%E5%88%9B%E4%B8%9A%E6%95%85%E4%BA%8B%E4%B8%89/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>一个理想主义者的创业故事（二）</title>
+      <link>http://www.zhanglei364.com/idealism/%E4%B8%80%E4%B8%AA%E7%90%86%E6%83%B3%E4%B8%BB%E4%B9%89%E8%80%85%E7%9A%84%E5%88%9B%E4%B8%9A%E6%95%85%E4%BA%8B/%E4%B8%80%E4%B8%AA%E7%90%86%E6%83%B3%E4%B8%BB%E4%B9%89%E8%80%85%E7%9A%84%E5%88%9B%E4%B8%9A%E6%95%85%E4%BA%8B%E4%BA%8C/</link>
+      <pubDate>Tue, 25 Oct 2011 23:20:12 +0800</pubDate>
+      
+      <guid>http://www.zhanglei364.com/idealism/%E4%B8%80%E4%B8%AA%E7%90%86%E6%83%B3%E4%B8%BB%E4%B9%89%E8%80%85%E7%9A%84%E5%88%9B%E4%B8%9A%E6%95%85%E4%BA%8B/%E4%B8%80%E4%B8%AA%E7%90%86%E6%83%B3%E4%B8%BB%E4%B9%89%E8%80%85%E7%9A%84%E5%88%9B%E4%B8%9A%E6%95%85%E4%BA%8B%E4%BA%8C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>一个理想主义者的创业故事（一）</title>
+      <link>http://www.zhanglei364.com/idealism/%E4%B8%80%E4%B8%AA%E7%90%86%E6%83%B3%E4%B8%BB%E4%B9%89%E8%80%85%E7%9A%84%E5%88%9B%E4%B8%9A%E6%95%85%E4%BA%8B/%E4%B8%80%E4%B8%AA%E7%90%86%E6%83%B3%E4%B8%BB%E4%B9%89%E8%80%85%E7%9A%84%E5%88%9B%E4%B8%9A%E6%95%85%E4%BA%8B%E4%B8%80/</link>
+      <pubDate>Tue, 23 Nov 2010 20:20:12 +0800</pubDate>
+      
+      <guid>http://www.zhanglei364.com/idealism/%E4%B8%80%E4%B8%AA%E7%90%86%E6%83%B3%E4%B8%BB%E4%B9%89%E8%80%85%E7%9A%84%E5%88%9B%E4%B8%9A%E6%95%85%E4%BA%8B/%E4%B8%80%E4%B8%AA%E7%90%86%E6%83%B3%E4%B8%BB%E4%B9%89%E8%80%85%E7%9A%84%E5%88%9B%E4%B8%9A%E6%95%85%E4%BA%8B%E4%B8%80/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>我的奋斗（吉林大学）</title>
+      <link>http://www.zhanglei364.com/idealism/%E4%B8%80%E4%B8%AA%E7%90%86%E6%83%B3%E4%B8%BB%E4%B9%89%E8%80%85%E7%9A%84%E5%88%9B%E4%B8%9A%E6%95%85%E4%BA%8B/%E6%88%91%E7%9A%84%E5%A5%8B%E6%96%97%E5%90%89%E6%9E%97%E5%A4%A7%E5%AD%A6/</link>
+      <pubDate>Wed, 20 May 2009 20:20:12 +0800</pubDate>
+      
+      <guid>http://www.zhanglei364.com/idealism/%E4%B8%80%E4%B8%AA%E7%90%86%E6%83%B3%E4%B8%BB%E4%B9%89%E8%80%85%E7%9A%84%E5%88%9B%E4%B8%9A%E6%95%85%E4%BA%8B/%E6%88%91%E7%9A%84%E5%A5%8B%E6%96%97%E5%90%89%E6%9E%97%E5%A4%A7%E5%AD%A6/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
 </rss>

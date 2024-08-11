@@ -3,18 +3,10 @@
     <title>文章归档 - 三石亭记</title>
     <link>http://www.zhanglei364.com/posts/</link>
     <description>文章归档 | 三石亭记</description>
-    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 31 Jul 2024 00:09:05 &#43;0800</lastBuildDate><atom:link href="http://www.zhanglei364.com/posts/" rel="self" type="application/rss+xml" /><item>
-  <title>文章内容格式样板</title>
-  <link>http://www.zhanglei364.com/%E6%96%87%E7%AB%A0%E5%86%85%E5%AE%B9%E6%A0%BC%E5%BC%8F%E6%A0%B7%E6%9D%BF/</link>
-  <pubDate>Sat, 09 Mar 2024 14:10:06 &#43;0800</pubDate>
-  <author>張磊</author>
-  <guid>http://www.zhanglei364.com/%E6%96%87%E7%AB%A0%E5%86%85%E5%AE%B9%E6%A0%BC%E5%BC%8F%E6%A0%B7%E6%9D%BF/</guid>
-  <description><![CDATA[本样板是为了给后续文章内容格式参考用的，涉及图片、音乐、视频、提示等基本经常要用到的内容。]]></description>
-</item>
-<item>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 31 Jul 2024 11:35:00 &#43;0800</lastBuildDate><atom:link href="http://www.zhanglei364.com/posts/" rel="self" type="application/rss+xml" /><item>
   <title>读书笔记</title>
   <link>http://www.zhanglei364.com/posts/notes/</link>
-  <pubDate>Thu, 12 Oct 2023 00:00:00 &#43;0000</pubDate>
+  <pubDate>Wed, 08 May 2024 00:00:00 &#43;0000</pubDate>
   <author>張磊</author>
   <guid>http://www.zhanglei364.com/posts/notes/</guid>
   <description><![CDATA[]]></description>
@@ -22,7 +14,7 @@
 <item>
   <title>胡思乱想</title>
   <link>http://www.zhanglei364.com/posts/idea/</link>
-  <pubDate>Thu, 12 Oct 2023 00:00:00 &#43;0000</pubDate>
+  <pubDate>Wed, 08 May 2024 00:00:00 &#43;0000</pubDate>
   <author>張磊</author>
   <guid>http://www.zhanglei364.com/posts/idea/</guid>
   <description><![CDATA[]]></description>
@@ -30,7 +22,7 @@
 <item>
   <title>生活杂记</title>
   <link>http://www.zhanglei364.com/posts/gossip/</link>
-  <pubDate>Thu, 12 Oct 2023 00:00:00 &#43;0000</pubDate>
+  <pubDate>Wed, 08 May 2024 00:00:00 &#43;0000</pubDate>
   <author>張磊</author>
   <guid>http://www.zhanglei364.com/posts/gossip/</guid>
   <description><![CDATA[]]></description>
@@ -38,10 +30,18 @@
 <item>
   <title>盛世牛马</title>
   <link>http://www.zhanglei364.com/posts/niuma/</link>
-  <pubDate>Thu, 12 Oct 2023 00:00:00 &#43;0000</pubDate>
+  <pubDate>Wed, 08 May 2024 00:00:00 &#43;0000</pubDate>
   <author>張磊</author>
   <guid>http://www.zhanglei364.com/posts/niuma/</guid>
   <description><![CDATA[]]></description>
+</item>
+<item>
+  <title>文章内容格式样板</title>
+  <link>http://www.zhanglei364.com/%E6%96%87%E7%AB%A0%E5%86%85%E5%AE%B9%E6%A0%BC%E5%BC%8F%E6%A0%B7%E6%9D%BF/</link>
+  <pubDate>Thu, 24 Aug 2023 20:10:06 &#43;0800</pubDate>
+  <author>張磊</author>
+  <guid>http://www.zhanglei364.com/%E6%96%87%E7%AB%A0%E5%86%85%E5%AE%B9%E6%A0%BC%E5%BC%8F%E6%A0%B7%E6%9D%BF/</guid>
+  <description><![CDATA[本样板是为了给后续文章内容格式参考用的，涉及图片、音乐、视频、提示等基本经常要用到的内容。]]></description>
 </item>
 </channel>
 </rss>
